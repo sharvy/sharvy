@@ -1,8 +1,12 @@
-<code>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+<div style="font-family: 'Roboto', sans-serif;">
+
 <h1 align="center">Hi 👋 I'm Sharvy</h1>
 
 <h3 align="center">A full stack software engineer living in Dhaka, Bangladesh</h3>
-</code>
+
 <br/><br/><h3>Languages / Frameworks / Tools I use everyday:</h3>
 <hr>
 
@@ -91,3 +95,4 @@
   
   </li>
 </ul>
+</div>
