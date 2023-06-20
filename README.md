@@ -38,17 +38,17 @@
   </li>
   <li>
   
-  ~~[Add Robust Search functionality in your Rails 4 app using Elasticsearch and Typeahead JS](https://sharvy.wordpress.com/2015/01/12/add-robust-search-functionality-in-your-rails-4-app-using-elasticsearch-and-typeahead-js/)~~
+  [Add Robust Search functionality in your Rails 4 app using Elasticsearch and Typeahead JS](https://sharvy.wordpress.com/2015/01/12/add-robust-search-functionality-in-your-rails-4-app-using-elasticsearch-and-typeahead-js/)
   
   </li>
   <li>
   
-  ~~[Ruby – Blocks, Procs & Lambdas (kinda confusing, right?)](https://sharvy.wordpress.com/2015/01/07/ruby-blocks-procs-lambdas-kinda-confusing-right/)~~
+  [Ruby – Blocks, Procs & Lambdas (kinda confusing, right?)](https://sharvy.wordpress.com/2015/01/07/ruby-blocks-procs-lambdas-kinda-confusing-right/)
   
   </li>
   <li>
   
-  ~~[See More...](https://sharvy.wordpress.com/)~~
+  [See More...](https://sharvy.wordpress.com/)
   
   </li>
 </ul>
